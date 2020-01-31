@@ -129,6 +129,7 @@ int Application::run(int &argc, char **argv)
     if (argc <= 1)
     {
         DialogMessage::exec(QStringLiteral("通过Portal.exe或Web页面启动"), DialogMessage::OK);
+		//DialogMessage::exec(QStringLiteral("通过Portal.exe或Web页面启动"), DialogMessage::OK,1000);
         return -1;
     }
 

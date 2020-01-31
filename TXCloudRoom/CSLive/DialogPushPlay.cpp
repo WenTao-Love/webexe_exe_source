@@ -559,13 +559,15 @@ void DialogPushPlay::on_update_event(int status, int index)
 	case 1:
 	{
 
-		DialogMessage::exec(QStringLiteral("播放连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK);
+		//DialogMessage::exec(QStringLiteral("播放连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK);
+		DialogMessage::exec(QStringLiteral("播放连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK,100);
 		stopPlay();
 	}
 	break;
 	case 2:
 	{
-		DialogMessage::exec(QStringLiteral("推流连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK);
+		//DialogMessage::exec(QStringLiteral("推流连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK);
+		DialogMessage::exec(QStringLiteral("推流连接失败! url = ") + m_mapUrlKey[index], DialogMessage::OK,100);
 		stopPush();
 	}
 	break;
