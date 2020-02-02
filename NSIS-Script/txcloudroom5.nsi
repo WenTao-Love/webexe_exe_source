@@ -51,9 +51,9 @@ InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
 ShowInstDetails show
 ShowUnInstDetails show
 
-Function .onInit
-  !insertmacro MUI_LANGDLL_DISPLAY
-FunctionEnd
+;Function .onInit
+;  !insertmacro MUI_LANGDLL_DISPLAY
+;FunctionEnd
 
 Section "MainSection" SEC01
   SetOutPath "$INSTDIR"
@@ -146,3 +146,52 @@ Section Uninstall
   DeleteRegKey HKCR "TXCloudRoom"
   SetAutoClose true
 SectionEnd
+
+Var UNINSTALL_PROG
+
+Function .onInit
+  ClearErrors
+  ReadRegStr $UNINSTALL_PROG ${PRODUCT_UNINST_ROOT_KEY} ${PRODUCT_UNINST_KEY} "UninstallString"
+  IfErrors  done
+  
+  MessageBox MB_YESNOCANCEL|MB_ICONQUESTION \
+    "检测到本机已经安装了 ${PRODUCT_NAME}。\
+    $\n$\n是否先卸载已安装的版本？" \
+      /SD IDYES \
+      IDYES uninstall \
+      IDNO done
+  Abort
+  
+uninstall:
+  Delete "$INSTDIR\${PRODUCT_NAME}.url"
+  Delete "$INSTDIR\uninst.exe"
+  Delete "$INSTDIR\vcruntime140.dll"
+  Delete "$INSTDIR\TXCloudRoom.exe"
+  Delete "$INSTDIR\TXCloudRecord.exe"
+  Delete "$INSTDIR\TXCloudPortal.exe"
+  Delete "$INSTDIR\TRAE.dll"
+  Delete "$INSTDIR\tls.dll"
+  Delete "$INSTDIR\QQAudioHookService.dll"
+  Delete "$INSTDIR\QQAudioHook.dll"
+  Delete "$INSTDIR\msvcr100.dll"
+  Delete "$INSTDIR\msvcp140.dll"
+  Delete "$INSTDIR\msvcp100.dll"
+  Delete "$INSTDIR\liteav.dll"
+  Delete "$INSTDIR\libtim.dll"
+  Delete "$INSTDIR\libmp4v2.dll"
+  Delete "$INSTDIR\BoardSDK.dll"
+
+  Delete "$SMPROGRAMS\TXCloudRoom\Uninstall.lnk"
+  Delete "$SMPROGRAMS\TXCloudRoom\Website.lnk"
+  Delete "$DESKTOP\TXCloudRoom.lnk"
+  Delete "$SMPROGRAMS\TXCloudRoom\TXCloudRoom.lnk"
+
+  RMDir "$SMPROGRAMS\TXCloudRoom"
+  RMDir "$INSTDIR"
+
+  DeleteRegKey ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}"
+  DeleteRegKey HKLM "${PRODUCT_DIR_REGKEY}"
+  DeleteRegKey HKCR "TXCloudRoom"
+done:
+  !insertmacro MUI_LANGDLL_DISPLAY
+FunctionEnd
