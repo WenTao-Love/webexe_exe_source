@@ -10,8 +10,8 @@
   Uic'ing CourtCS\RTCRoomList.ui...
   Uic'ing CSLive\CSLiveSetting.ui...
   Uic'ing UI\DialogMessage.ui...
-C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\UI\DialogMessage.ui : warning : Z-order assignment: '' is not a valid widget.
-C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\UI\DialogMessage.ui : warning : Z-order assignment: 'verticalSpacer' is not a valid widget.
+D:\git\webexe_exe_source\TXCloudPortal\UI\DialogMessage.ui : warning : Z-order assignment: '' is not a valid widget.
+D:\git\webexe_exe_source\TXCloudPortal\UI\DialogMessage.ui : warning : Z-order assignment: 'verticalSpacer' is not a valid widget.
   Uic'ing UI\RoomItemView.ui...
   Uic'ing UI\CreateRoom.ui...
   Uic'ing UI\MainDialog.ui...
@@ -45,8 +45,8 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C409
   RoomItemView.cpp
   正在生成代码...
   qrc_Porttal(Qt).cpp
-  TXCloudPortal.vcxproj -> C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\Build\Bin\Debug\TXCloudPortal.exe
-  TXCloudPortal.vcxproj -> C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\Build\Bin\Debug\TXCloudPortal.pdb (Full PDB)
-  C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\thirdparty\msvc\Debug\msvcp140d.dll
-  C:\Users\windo\source\repos\WenTao-Love\webexe_exe_source\TXCloudPortal\thirdparty\msvc\Debug\vcruntime140d.dll
+  TXCloudPortal.vcxproj -> D:\git\webexe_exe_source\TXCloudPortal\Build\Bin\Debug\TXCloudPortal.exe
+  TXCloudPortal.vcxproj -> D:\git\webexe_exe_source\TXCloudPortal\Build\Bin\Debug\TXCloudPortal.pdb (Full PDB)
+  D:\git\webexe_exe_source\TXCloudPortal\thirdparty\msvc\Debug\msvcp140d.dll
+  D:\git\webexe_exe_source\TXCloudPortal\thirdparty\msvc\Debug\vcruntime140d.dll
   已复制         2 个文件。

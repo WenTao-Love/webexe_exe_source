@@ -1,1 +1,312 @@
-﻿  PushPlayDemo.cpp
+﻿  Moc'ing Education\LiveShareVideo.h...
+  Moc'ing UI\PPTHistoryItemView.h...
+  Moc'ing UI\PPTHistory.h...
+  Moc'ing UI\BeautyManage.h...
+  Moc'ing UI\WhiteBoard.h...
+  Moc'ing UI\QWidgetToast.h...
+  Moc'ing UI\QProgressIndicator.h...
+  Moc'ing UI\QDialogProgress.h...
+  Moc'ing UI\MemberPanel.h...
+  Moc'ing UI\MemberItemView.h...
+  Moc'ing UI\InvitePanel.h...
+  Moc'ing UI\IMPanel.h...
+  Moc'ing UI\IMItemView.h...
+  Moc'ing UI\GDIWidget.h...
+  Moc'ing UI\DialogMessage.h...
+  Moc'ing UI\DeviceManage.h...
+  Moc'ing UI\CustomTextEdit.h...
+  Moc'ing Education\LiveDemo.h...
+  Moc'ing PushPlayTest\PushPlayDemo.h...
+  Moc'ing Application.h...
+  Moc'ing Education\LiveVideoPanel.h...
+  Moc'ing Education\LiveVideoWidget.h...
+  Moc'ing CSLive\DialogPushPlay.h...
+  Moc'ing Court
+  系统找不到指定的路径。
+  Moc'ing Court
+  系统找不到指定的路径。
+  Moc'ing Court
+  系统找不到指定的路径。
+  Moc'ing Court
+  系统找不到指定的路径。
+  Moc'ing common\RoomService\CaptureScreen.h...
+  Moc'ing common\RoomService\ImageDownloader.h...
+  Moc'ing common\TXShareFrameChoose.h...
+  Moc'ing common\TXShareFrameMgr.h...
+  Moc'ing Court
+  系统找不到指定的路径。
+  Moc'ing PushPlayTest\GetPushUrlInfo.h...
+  Rcc'ing Resources\WhiteBoardResource\WhiteBoard.qrc...
+  Rcc'ing Resources\RoomService\RoomService.qrc...
+  Rcc'ing Resources\PushPlayTest\PushPlayTest.qrc...
+  Uic'ing UI\DeviceManage.ui...
+  Uic'ing UI\DialogMessage.ui...
+D:\git\webexe_exe_source\TXCloudRoom\UI\DialogMessage.ui : warning : Z-order assignment: '' is not a valid widget.
+  Uic'ing UI\IMItemView.ui...
+D:\git\webexe_exe_source\TXCloudRoom\UI\DialogMessage.ui : warning : Z-order assignment: 'verticalSpacer' is not a valid widget.
+  Uic'ing UI\IMPanel.ui...
+  Uic'ing UI\InvitePanel.ui...
+  Uic'ing UI\MainPanel.ui...
+  Uic'ing UI\MemberItemView.ui...
+  Uic'ing UI\MemberPanel.ui...
+  Uic'ing UI\QDialogProgress.ui...
+  Uic'ing UI\RoomDemo.ui...
+D:\git\webexe_exe_source\TXCloudRoom\UI\RoomDemo.ui : warning : Z-order assignment: 'horizontalSpacer_6' is not a valid widget.
+  Uic'ing UI\VideoWidget.ui...
+  Uic'ing UI\WhiteBoard.ui...
+  Uic'ing PushPlayTest\PushPlayDemo.ui...
+D:\git\webexe_exe_source\TXCloudRoom\PushPlayTest\PushPlayDemo.ui : warning : Z-order assignment: 'horizontalSpacer_6' is not a valid widget.
+  Uic'ing CSLive\DialogPushPlay.ui...
+  Uic'ing UI\BeautyManage.ui...
+  Uic'ing UI\DialogShareVideo.ui...
+  Uic'ing UI\PPTHistory.ui...
+  Uic'ing UI\PPTHistoryItemView.ui...
+  Application.cpp
+  ActiveXUtil.cpp
+  crashdump.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  HttpClient.cpp
+  HttpReportRequest.cpp
+  HttpServer.cpp
+  log.cpp
+  BoardService.cpp
+  CaptureScreen.cpp
+  COSInfo.cpp
+  DataReport.cpp
+  ImageDownloader.cpp
+  TIMManager.cpp
+  TaskQueue.cpp
+  TXCloudRecordCmd.cpp
+  TXShareFrameChoose.cpp
+  TXShareFrameMgr.cpp
+  DoubleVideoPanel.cpp
+  MultiVideoPanel.cpp
+  RTCDemo.cpp
+  正在生成代码...
+d:\git\webexe_exe_source\txcloudroom\common\txcloudrecordcmd.cpp(244): warning C4715: “TXCloudRecordCmd::isExist”: 不是所有的控件路径都返回值
+  正在编译...
+  RTCShareVideo.cpp
+  RTCVideoWidget.cpp
+  DialogPushPlay.cpp
+  LiveDemo.cpp
+  LiveShareVideo.cpp
+  LiveVideoPanel.cpp
+  LiveVideoWidget.cpp
+  moc_Application.cpp
+  moc_BeautyManage.cpp
+  moc_CaptureScreen.cpp
+  moc_CustomTextEdit.cpp
+  moc_DeviceManage.cpp
+  moc_DialogMessage.cpp
+  moc_DialogPushPlay.cpp
+  moc_DoubleVideoPanel.cpp
+  moc_GDIWidget.cpp
+  moc_GetPushUrlInfo.cpp
+  moc_ImageDownloader.cpp
+  moc_IMItemView.cpp
+  moc_IMPanel.cpp
+  正在生成代码...
+d:\git\webexe_exe_source\txcloudroom\cslive\dialogpushplay.cpp(528): warning C4715: “<lambda_48a66bed45caa40ef356d08b9648dd29>::operator()”: 不是所有的控件路径都返回值
+d:\git\webexe_exe_source\txcloudroom\cslive\dialogpushplay.cpp(503): warning C4715: “<lambda_77d5674bca328109918bdd00f7a51200>::operator()”: 不是所有的控件路径都返回值
+  正在编译...
+  moc_InvitePanel.cpp
+  moc_LiveDemo.cpp
+  moc_LiveShareVideo.cpp
+  moc_LiveVideoPanel.cpp
+  moc_LiveVideoWidget.cpp
+  moc_MemberItemView.cpp
+  moc_MemberPanel.cpp
+  moc_MultiVideoPanel.cpp
+  moc_PPTHistory.cpp
+  moc_PPTHistoryItemView.cpp
+  moc_PushPlayDemo.cpp
+  moc_QDialogProgress.cpp
+  moc_QProgressIndicator.cpp
+  moc_QWidgetToast.cpp
+  moc_RTCDemo.cpp
+  moc_RTCShareVideo.cpp
+  moc_RTCVideoWidget.cpp
+  moc_TXShareFrameChoose.cpp
+  moc_TXShareFrameMgr.cpp
+  moc_WhiteBoard.cpp
+  正在生成代码...
+  正在编译...
+  main.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  GetPushUrlInfo.cpp
+  PushPlayDemo.cpp
+  LiveRoom.cpp
+  LRBussiness.cpp
+  LRHttpRequest.cpp
+  LRStreamMixer.cpp
+  RTCRBussiness.cpp
+  RTCRHttpRequest.cpp
+  RTCRoom.cpp
+  RTCStreamMixer.cpp
+  gzip.cpp
+  jsoncpp.cpp
+  BeautyManage.cpp
+  CustomTextEdit.cpp
+  DeviceManage.cpp
+  DialogMessage.cpp
+  GDIWidget.cpp
+  IMItemView.cpp
+  IMPanel.cpp
+  正在生成代码...
+  正在编译...
+  InvitePanel.cpp
+  MemberItemView.cpp
+  MemberPanel.cpp
+  PPTHistory.cpp
+  PPTHistoryItemView.cpp
+  QDialogProgress.cpp
+  QProgressIndicator.cpp
+  QWidgetToast.cpp
+  WhiteBoard.cpp
+  WinWidget.cpp
+  正在生成代码...
+  qrc_PushPlayTest.cpp
+  qrc_RoomService.cpp
+  qrc_WhiteBoard.cpp
+  正在生成代码...
+CosSDK.lib(TXCHttpClient.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+zlib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(adler32.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(crc32.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(deflate.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(inflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(inflate.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(inftrees.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(inffast.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(inffast.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(trees.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(zutil.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(TXCHttpClient.obj) : warning LNK4099: 未找到 PDB“CosSDK.pdb”(使用“CosSDK.lib(TXCHttpClient.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\CosSDK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(TXCCosHelper.obj) : warning LNK4099: 未找到 PDB“CosSDK.pdb”(使用“CosSDK.lib(TXCCosHelper.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\CosSDK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(TXCTaskQueue.obj) : warning LNK4099: 未找到 PDB“CosSDK.pdb”(使用“CosSDK.lib(TXCTaskQueue.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\CosSDK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(vtls.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(vtls.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(schannel_verify.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(schannel_verify.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(schannel.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(schannel.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(vauth.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(vauth.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(spnego_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(spnego_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(oauth2.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(oauth2.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(ntlm_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(ntlm_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(krb5_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(krb5_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(digest_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(digest_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(digest.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(digest.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(cram.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(cram.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(cleartext.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(cleartext.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(x509asn1.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(x509asn1.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(wildcard.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(wildcard.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(warnless.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(warnless.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(version.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(version.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(url.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(url.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(transfer.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(transfer.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(timeval.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(timeval.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(tftp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(tftp.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(telnet.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(telnet.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(system_win32.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(system_win32.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(strtoofft.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(strtoofft.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(strtok.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(strtok.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(strerror.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(strerror.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(strdup.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(strdup.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(strcase.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(strcase.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(splay.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(splay.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(speedcheck.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(speedcheck.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(socks_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(socks_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(socks.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(socks.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(smtp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(smtp.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(smb.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(smb.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(slist.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(slist.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(share.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(share.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(setopt.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(setopt.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(sendf.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(sendf.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(select.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(select.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(rtsp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(rtsp.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(rand.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(rand.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(progress.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(progress.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(pop3.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(pop3.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(pipeline.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(pipeline.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(pingpong.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(pingpong.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(parsedate.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(parsedate.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(nonblock.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(nonblock.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(netrc.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(netrc.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(multi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(multi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(mprintf.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(mprintf.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(mime.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(mime.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(md5.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(md5.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(llist.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(llist.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(ldap.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(ldap.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(inet_pton.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(inet_pton.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(inet_ntop.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(inet_ntop.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(imap.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(imap.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(if2ip.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(if2ip.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http_proxy.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http_proxy.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http_ntlm.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http_ntlm.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http_negotiate.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http_negotiate.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http_digest.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http_digest.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http_chunks.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http_chunks.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(http.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(http.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hostip.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hostip.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hostip4.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hostip4.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hostcheck.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hostcheck.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hostasyn.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hostasyn.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hmac.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hmac.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(hash.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(hash.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(gopher.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(gopher.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(getinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(getinfo.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(getenv.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(getenv.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(ftplistparser.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(ftplistparser.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(ftp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(ftp.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(formdata.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(formdata.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(fileinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(fileinfo.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(file.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(file.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(escape.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(escape.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(easy.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(easy.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(dotdot.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(dotdot.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(dict.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(dict.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_threads.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_threads.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_sspi.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_sasl.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_sasl.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_range.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_range.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_ntlm_core.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_ntlm_core.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_memrchr.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_memrchr.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_gethostname.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_gethostname.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_fnmatch.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_fnmatch.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_endian.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_endian.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_des.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_des.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_ctype.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_ctype.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(curl_addrinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(curl_addrinfo.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(cookie.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(cookie.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(content_encoding.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(content_encoding.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(connect.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(connect.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(conncache.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(conncache.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(base64.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(base64.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CosSDK.lib(asyn-thread.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“CosSDK.lib(asyn-thread.obj)”或在“D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  TXCloudRoom.vcxproj -> D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\TXCloudRoom.exe
+  TXCloudRoom.vcxproj -> D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\TXCloudRoom.pdb (Full PDB)
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\IM_Windows_SDK\static-rt-libs\Debug\libtim.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\IM_Windows_SDK\static-rt-libs\Debug\tls.dll
+  已复制         2 个文件。
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\libmp4v2.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\liteav.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\msvcp100.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\msvcr100.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\QQAudioHook.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\QQAudioHookService.dll
+  D:\git\webexe_exe_source\TXCloudRoom\SDK\liteav\lib\TRAE.dll
+  已复制         7 个文件。
+  已复制         1 个文件。
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\BoardSDK.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libmp4v2.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\libtim.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\liteav.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\msvcp100.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\msvcr100.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\QQAudioHook.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\QQAudioHookService.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\tls.dll
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\TRAE.dll
+  已复制        10 个文件。
+  D:\git\webexe_exe_source\TXCloudRoom\Build\Bin\Debug\TXCloudRoom.exe
+  已复制         1 个文件。
